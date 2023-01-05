@@ -1,4 +1,4 @@
-///kkk
+
 #include<iostream>
 using namespace std;
 
