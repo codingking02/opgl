@@ -22,7 +22,7 @@ double shiftCubeZ = 0.0;
 
 double moveSpeed = 0.01;
 double snowManMove = 0;
-
+//5
 float eyeX = 0;
 float eyeY = -0.2;
 float eyeZ = -0.5;
