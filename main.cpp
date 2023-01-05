@@ -49,7 +49,7 @@ void reshapeFunc(int w, int h)
     gluPerspective(60.0, 2, 1, 50.0);
     glMatrixMode(GL_MODELVIEW);
 }
-
+//8
 
 void MyInit(){
     glClearColor(0,0.07,0.05,1);
